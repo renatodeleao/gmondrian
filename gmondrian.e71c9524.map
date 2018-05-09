@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";;;;;AAAA;;AACAA,QAAQC,GAAR,CAAY,aAAZ","file":"gmondrian.e71c9524.map","sourceRoot":"..","sourcesContent":["import './index.scss';\nconsole.log('hello world');"]}
